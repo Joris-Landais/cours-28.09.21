@@ -1,1 +1,4 @@
-print("test")
+print("chien")
+print("lechatdinternet")
+for i in rang 3:
+    print("chatalors!")
